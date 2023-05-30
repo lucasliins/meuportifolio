@@ -43,7 +43,7 @@
   font-weight: 500;
   padding-bottom: 0.3rem;
   text-align: center;
-  text-shadow: 2px 2px 0 #b48440;
+  text-shadow: 2px 2px 0 #f7f5f3;
 }
 
 .right h4 {
@@ -67,7 +67,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #b48440;
+  background-color: #f7f5f3;
   border-radius: 10px;
   margin-top: 1rem;
   transition: all 400ms ease;
@@ -84,7 +84,7 @@
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-  background-color: #ab7529;
+  background-color: #f7f5f3;
   -webkit-box-shadow: 0px 5px 16px 8px rgba(0, 0, 0, 0.37);
   box-shadow: 0px 5px 16px 8px rgba(0, 0, 0, 0.37);
 }

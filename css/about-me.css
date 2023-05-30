@@ -14,7 +14,7 @@
   font-size: 2rem;
   letter-spacing: 2px;
   font-weight: 600;
-  color: #b48440;
+  color: #f7f5f3;
   background-color: #014d6e8b;
   padding: 10px 0;
   border-radius: 5px;
@@ -27,7 +27,7 @@
 }
 
 .about-me-container {
-  border: 4px solid #b48440;
+  border: 4px solid #f7f5f3;
   border-radius: 10px;
   width: 80%;
   margin: 0 auto;
